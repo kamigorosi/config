@@ -13,4 +13,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8081/eureka
 test: 
-  message: hello world
+  message: hello world!MQ
